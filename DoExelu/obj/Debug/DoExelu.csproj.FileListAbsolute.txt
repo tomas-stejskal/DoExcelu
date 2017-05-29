@@ -1,0 +1,11 @@
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\bin\Debug\DoExelu.exe.config
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\bin\Debug\DoExelu.exe
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\bin\Debug\DoExelu.pdb
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\obj\Debug\DoExelu.csprojResolveAssemblyReference.cache
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\obj\Debug\DoExelu.Form1.resources
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\obj\Debug\DoExelu.Properties.Resources.resources
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\obj\Debug\DoExelu.csproj.GenerateResource.Cache
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\obj\Debug\DoExelu.exe
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\obj\Debug\DoExelu.pdb
+c:\users\tomi\documents\visual studio 2015\Projects\DoExelu\DoExelu\bin\Debug\MySql.Data.dll
+C:\Users\tomi\Documents\Visual Studio 2015\Projects\DoExelu\DoExelu\bin\Debug\ExcelLibrary.dll
